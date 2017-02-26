@@ -1,0 +1,14 @@
+Feb 26, 2017 8:29:48 PM assingment.Assingment check_committment
+INFO: BoyNo0GirlNo26
+Feb 26, 2017 8:29:49 PM assingment.Assingment check_committment
+INFO: BoyNo1GirlNo50
+Feb 26, 2017 8:29:49 PM assingment.Assingment check_committment
+INFO: BoyNo2GirlNo58
+Feb 26, 2017 8:29:49 PM assingment.Assingment check_committment
+INFO: BoyNo3GirlNo83
+Feb 26, 2017 8:29:49 PM assingment.Assingment check_committment
+INFO: BoyNo4GirlNo87
+Feb 26, 2017 8:29:49 PM assingment.Assingment check_committment
+INFO: BoyNo5GirlNo90
+Feb 26, 2017 8:29:49 PM assingment.Assingment check_committment
+INFO: BoyNo6GirlNo98
