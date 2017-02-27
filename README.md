@@ -1,7 +1,7 @@
 # ppl-assignment-half-minded
 Harsh Gupta
 RIT2015012
-
+Documentation is in dist folder.
 type the following commands for linux:
 
 cd Assingment
