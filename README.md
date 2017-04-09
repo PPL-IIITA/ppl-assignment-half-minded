@@ -3,17 +3,18 @@ Harsh Gupta
 RIT2015012
 
 
-Documentation is in dist folder.
-cd Assingment
-open index.html
+Documentation is in dist folder:-<br>
+cd Assingment<br>
+open index.html<br>
 
-type the following commands for linux:
+For Class Diagram :-<br>
+cd Assingment<br>
+classdiagram.png<br>
 
-cd Assingment/src/assingment
-java *.java
-cd..
-java assingment.Assingment
+# Commands for linux:
 
-For Class Diagram :-
-cd Assingment
-classdiagram.png
+$cd Assingment/src/assingment
+$java *.java<br>
+$cd..<br>
+$java assingment.Assingment<br>
+
